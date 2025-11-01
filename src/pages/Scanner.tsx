@@ -69,7 +69,7 @@ const Scanner = () => {
             </div>
             <h1 className="text-2xl font-bold">Scan QR Code</h1>
             <p className="text-muted-foreground">
-              Point your camera at the refrigerator's QR code
+              Point your camera at the CDE's QR code
             </p>
           </div>
 

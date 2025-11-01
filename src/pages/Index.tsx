@@ -18,7 +18,7 @@ const Index = () => {
               Planogram Viewer
             </h1>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              Scan refrigerator QR codes to instantly view the correct product layout for any store category
+              Scan CDE QR codes to instantly view the correct product layout for any store category
             </p>
           </div>
 
@@ -28,7 +28,7 @@ const Index = () => {
               <div className="space-y-2">
                 <h2 className="text-2xl font-semibold">Get Started</h2>
                 <p className="text-muted-foreground">
-                  Tap the button below to scan a refrigerator QR code
+                  Tap the button below to scan a CDE QR code
                 </p>
               </div>
               <Button
@@ -73,7 +73,7 @@ const Index = () => {
             </div>
           </div>
 
-          {/* Admin Link */}
+          {/* Admin Link
           <div className="text-center">
             <Button
               variant="link"
@@ -82,7 +82,7 @@ const Index = () => {
             >
               Admin Login
             </Button>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>
